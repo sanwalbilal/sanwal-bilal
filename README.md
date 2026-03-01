@@ -1,59 +1,89 @@
+<h1 align="center">Hi 👋, I'm Sanwal Bilal</h1>
+<h3 align="center">AI Engineer | Machine Learning | Backend Developer | Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Backend+%26+API+Developer;Cybersecurity+Enthusiast;Always+Learning+%F0%9F%9A%80&center=true&width=600&height=45">
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on AI-driven real-world systems  
+- 🧠 Passionate about ML, Computer Vision & Agentic AI  
+- 🔐 Exploring Cybersecurity & Secure Architectures  
+- 📚 Research-focused mindset with practical execution  
+- ⚡ Love building scalable backend systems with Python  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanwalbilal&show_icons=true&theme=radical&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanwalbilal&layout=compact&theme=radical&hide_border=true" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanwalbilal&theme=radical&hide_border=true">
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![Sanwal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sanwalbilal&theme=dracula&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanwalbilal&theme=react-dark&hide_border=true">
+</p>
 
 ---
 
-## 📚 Recent Blog Posts & Articles
+## 🏆 Achievements
 
-<!-- BLOG-POST-LIST:START -->
-- 🔗 [Building Production-Ready ML Models](https://yourmedium.com)
-- 🔗 [Deep Dive into Transformers](https://yourmedium.com)
-- 🔗 [MLOps Best Practices](https://yourmedium.com)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanwalbilal&theme=radical&no-frame=true&row=1&column=6">
+</p>
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **[Your ML/AI Certification]**
-- 🥇 **[Kaggle Competitions]**
-- 📖 **[Publications/Research Papers]**
-- 🌟 **[Notable Open Source Contributions]**
+- 🎓 AI & Machine Learning Projects  
+- 🥇 Hackathon Leadership  
+- 📖 Research & Review Papers  
+- 🌟 Real-World Backend Deployments  
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🛠️ Tech Stack
 
-I'm always interested in:
-- 🔬 Cutting-edge AI/ML research projects
-- 🤖 Building intelligent systems and applications
-- 📊 Data analysis and insights generation
-- 🌐 Open source ML contributions
-- 💼 Collaborations on innovative ideas
-
-Feel free to reach out if you want to work on something exciting together!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,tensorflow,pytorch,opencv,git,linux,docker,postgresql,mysql">
+</p>
 
 ---
 
-## 📞 Connect With Me
+## 🤝 Let’s Collaborate
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sanwalbilal)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/sanwalbilal)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=web)](https://yourportfolio.com)
-
-**Let's build the future of AI together! 🚀**
-
-</div>
+💡 Open to:
+- AI/ML research collaborations  
+- Intelligent system development  
+- Open-source contributions  
+- Innovative startup ideas  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanwalbilal&color=blueviolet" alt="Profile Views" />
-</div>.
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanwalbilal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanwalbilal&color=blueviolet&style=flat-square">
+</p>
+
+<h3 align="center">⚡ Building the Future with AI ⚡</h3>
